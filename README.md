@@ -15,11 +15,13 @@
 - Sequel Pro for MySQL
 - Sublime Text for quick edits and opening extremely large files
 - iTerm2
+- [NeoVim](https://neovim.io/) as a replacement for Vim for editing files in terminal
 - Obsidian as a primary Notes, Todos, Knowledge base app
 - Slack
 - Spark Mail as a primary Mail client
 - CRON Calendar as a primary Calendar
 - ARC Browser as a primary Browser
+  - Vimium extension for keyboard navigation
 - Postman
 - Endel
 - Apple Music with Lossless Audio
