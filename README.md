@@ -39,9 +39,7 @@
 - Lights based on [circadian rhythm](https://www.webmd.com/sleep-disorders/find-circadian-rhythm)
 
 ## 🌱 I’m currently learning
-- Ansible
-- Next.js v14
-- Protobuf
+- Ruby on Rails
 
 ## 🧪 I'm currently experimenting with
 - ESPHome and Thread protocol
